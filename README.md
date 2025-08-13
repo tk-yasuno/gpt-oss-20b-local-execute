@@ -18,7 +18,7 @@ Environment for local execution of **GPT-OSS B20** model with **Python 3.12**.
 - **GPU**: NVIDIA RTX 4060 Ti (15GB VRAM)
 - **OS**: Windows 11
 
-## 🚀 Quick Start
+## 🚀 Quick Start (_jp or _en)
 
 ### 1. Environment Check
 
