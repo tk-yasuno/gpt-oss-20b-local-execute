@@ -1,4 +1,3 @@
-# gpt-oss-20b-local-execute
 # GPT-OSS B20 Local Execution Environment
 
 ## Overview
